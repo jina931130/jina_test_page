@@ -33,7 +33,7 @@ I explore how **data and design** can merge to create more intelligent and empat
 
 ### 2. Estrella – Providing a Dynamic Experience  
 **Bronze A' Design Award (Yacht and Marine Vessels Design Category)** · **A' Design Award & Competition (2021.05)**   
-> ['hypebeast'에 소개된 내용]([https://competition.adesignaward.com](https://hypebeast.com/2021/7/estrella-superyacht-star-wars-yeojin-jung))
+> > ['Hypebeast'에 소개된 내용](https://hypebeast.com/2021/7/estrella-superyacht-star-wars-yeojin-jung)
 
 ---
 
