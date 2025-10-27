@@ -1,83 +1,90 @@
-# MyName 포트폴리오
-
-데이터 분석가 / 스토리텔러  
-서울 거주, 데이터 시각화와 인사이트 전달에 관심이 많습니다.  
-Python 그리고 R과 Tableau를 활용해 데이터를 이야기로 바꿉니다.
-
-![이미지](pawel-czerwinski-DXzDtHsCQFI-unsplash.jpg)
+![이미지]([pawel-czerwinski-DXzDtHsCQFI-unsplash.jpg](https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2Festrella-superyacht-yeojin-jung-2.jpg?q=70&w=915&cbr=1&fit=max))
 
 ---
 
-## 소개
+# Yeojin Jung Portfolio
 
-데이터를 단순히 분석하는 데 그치지 않고, **사람이 이해하고 공감할 수 있는 이야기로 전달하는 것**을 목표로 합니다.  
-데이터 저널리즘, 시각화, 리포트 자동화 프로젝트 등을 수행하며, 기술과 소통의 균형을 추구합니다.
-
-**핵심 역량**
-- 데이터 스토리텔링 및 커뮤니케이션
-- 데이터 분석 (Python, R, SQL)
-- 시각화 (Matplotlib, Altair, Tableau 등)
-- 웹 퍼블리싱
----
-
-## 프로젝트
-
-### 1. 대한민국은 "먹방"에 중독됐다?
-**기간:** 2024.07 – 2024.10  
-**기술 스택:** Python, Altair, GitHub Pages  
-**요약:** 소셜 미디어 데이터를 활용해 세대별 먹방 소비 핵심 키워드 분석
-[프로젝트 보기](https://)
+연세대학교 커뮤니케이션대학원 · 커뮤니케이션디자인 전공 
+Graduate School of Communication, Yonsei University — Communication Design Major 
 
 ---
 
-### 2. OO 대학교 학생 성과 예측 시스템 구축
-**기간:** 2020.11 – 2022.02  
-**기술 스택:** SQL, Tableau
-**요약:** OO대학교 학생 희망 성취 Up 프로그램 대시보드 개발
-[프로젝트 보기](https://)
+## 👋 Introduction
+
+Hello! I'm Yeojin Jung, a master's student majoring in Communication Design at Yonsei University.  
+My primary interests lie in Automotive UX, Mobility UX, and Autonomous Interaction Design.  
+I explore how **data and design** can merge to create more intelligent and empathetic user experiences.
+
+한국 IT 생체리듬 테크 스타트업에서 **제품 디자이너로 약 3년간 근무**하며 실제 서비스 기획과 개발 경험을 쌓았습니다.  
+이전에는 영국 Coventry University에서 Automotive & Transport Design을 전공했고,  
+현재는 전공 기반의 디자인 감각과 HCI 관점을 융합해 자동차 인터랙션 UX 연구를 수행하고 있습니다.
 
 ---
 
-### 3. OO대학교 경제 연구소 홈페이지
-**기간:** 2023.03 – (현재)
-**기술 스택:** FastAPI, Quarto
-**요약:** OO 대학교 경제 연구소 홈페이지 구축 및 관리 중
-[프로젝트 보기](https://)
+## 🧩 Projects
+
+### 1. Vehicle-to-Vehicle Interaction Design for Autonomous Driving 
+**한국HCI학회 학술대회 (2025.02)** · **Design Works (2025.06)**  
+> 자율주행 차량 간 커뮤니케이션을 위한 시각적 소통 방식을 제안한 연구로,  
+> 주행 시나리오 기반의 시각적 인터랙션 프로토타입을 설계하고 사용성 평가를 진행.  
+> Focus: *Visual communication between autonomous vehicles to improve mutual awareness.*
 
 ---
 
-## 기술 스택
-
-| 분야 | 도구 |
-|------|------|
-| 프로그래밍 | Python, Julia, R |
-| 데이터베이스 | SQLite, MySQL |
-| 시각화 | Tableau, Power BI, Altair |
-| 웹/자동화 | GitHub Pages, Streamlit, Dash |
-| 협업/관리 | Git, Notion, Slack |
+### 2. Estrella – Providing a Dynamic Experience  
+**Bronze A' Design Award (Yacht and Marine Vessels Design Category)** · **A' Design Award & Competition (2021.05)**   
+> ['hypebeast'에 소개된 내용]([https://competition.adesignaward.com](https://hypebeast.com/2021/7/estrella-superyacht-star-wars-yeojin-jung))
 
 ---
 
-## 학력 및 이력
-
-- **OO대학교 사회과학대학**, 통계학 전공 (2018–2022)
-- **OO사 전략 기획 연구소** 연구원 (2023–2024)
-- **프리랜서 데이터 컨설턴트**, (2025- )OO시 OOO프로젝트 참여 중
+### 3. PIN UP CONCEPT DESIGN AWARDS – Finalist  
+**Korean Association of Industrial Designers (KAID) (2019.12)**  
 
 ---
 
-## 연락처
+## 🛠️ Technical Skills
+
+| 분야 | 도구 및 역량 |
+|------|--------------|
+| 3D Modeling & Rendering | Rhino 3D, V-Ray, Keyshot |
+| Graphic & Visual Design | Adobe Photoshop, Adobe Illustrator |
+| UX / UI Design | Figma, UX Research, Usability Testing |
+| Data Visualization | Tableau |
+| Research & Development | HCI, Interaction Design, Mobility UX |
+
+---
+
+## 🎓 Education & Experience
+
+**M.A. in Communication Design — Yonsei University**  
+*2024.09 – Present*  
+> Focused on Interaction Design, HCI, and the convergence of Design & Data.
+
+**Product Designer — LUPLE (Seoul, Korea)**  
+*May 2020 – November 2022 (2 years 7 months)*  
+> Participated in product concept development, UI/UX enhancement, and IoT wellness device design projects.
+
+**B.A. in Automotive & Transport Design — Coventry University (UK)**  
+*2014 – 2019*  
+> Specialized in automotive exterior/interior concept design and mobility experience prototyping.
+
+---
+
+## 📬 Contact
 
 | 구분 | 내용 |
 |------|------|
-| 이메일 | ~~~@~~~.com |
-| GitHub | [github.com/myname](https://) |
-| LinkedIn | [linkedin.com/in/myname](https://linkedin.com) |
-| 포트폴리오 사이트 | [myname.github.io](https://) |
+| 📧 Email | y.jung1130@gmail.com |
+| 💼 LinkedIn | [linkedin.com/in/yeojin-jung-54b276158](https://www.linkedin.com/in/yeojin-jung-54b276158/) |
 
 ---
 
-## 기타
+## 🌱 Current Focus
 
-- 오픈소스 기여 경험 (OOO 프레임워크 한글화 참여)
-- <사회과학자를 위한 파이썬> 참여 저자
+- Designing intuitive interfaces for **autonomous vehicle interactions**  
+- Exploring **data-driven UX methodologies**  
+- Studying **how multimodal feedback enhances user trust** in mobility systems  
+
+---
+
+© 2025 **Yeojin Jung** · All Rights Reserved.
