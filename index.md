@@ -1,4 +1,4 @@
-![이미지](top view for poster2.jpg)
+![이미지](pawel-czerwinski-DXzDtHsCQFI-unsplash.jpg)
 
 ---
 
