@@ -2,7 +2,7 @@
 
 ---
 
-# Yeojin Jung Portfolio
+# CV_Yeojin Jung
 
 연세대학교 커뮤니케이션대학원 · 커뮤니케이션디자인 전공 
 Graduate School of Communication, Yonsei University, Communication Design
